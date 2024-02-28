@@ -1,0 +1,11 @@
+networkx==3.2.1
+scipy==1.1.0
+setuptools==40.6.3
+numpy==1.25.2
+tensorflow==2.15.0
+seaborn==0.13.1
+"""install the following
+!pip install torch-scatter -f https://data.pyg.org/whl/torch-${TORCH}.html
+!pip install torch-sparse -f https://data.pyg.org/whl/torch-${TORCH}.html
+!pip install git+https://github.com/pyg-team/pytorch_geometric.git
+"""
